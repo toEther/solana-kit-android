@@ -1,7 +1,7 @@
 package io.definenulls.solanakit.sample
 
 import android.app.Application
-import io.horizontalsystems.hdwalletkit.Mnemonic
+import io.definenulls.hdwalletkit.Mnemonic
 import io.definenulls.solanakit.Signer
 import io.definenulls.solanakit.SolanaKit
 
