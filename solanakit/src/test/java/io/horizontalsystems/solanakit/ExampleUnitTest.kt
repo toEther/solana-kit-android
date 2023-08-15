@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit
+package io.definenulls.solanakit
 
 import org.junit.Test
 

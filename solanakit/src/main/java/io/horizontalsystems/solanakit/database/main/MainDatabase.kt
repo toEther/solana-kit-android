@@ -1,15 +1,15 @@
-package io.horizontalsystems.solanakit.database.main
+package io.definenulls.solanakit.database.main
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
-import io.horizontalsystems.solanakit.database.main.dao.BalanceDao
-import io.horizontalsystems.solanakit.database.main.dao.LastBlockHeightDao
-import io.horizontalsystems.solanakit.database.transaction.RoomTypeConverters
-import io.horizontalsystems.solanakit.models.BalanceEntity
-import io.horizontalsystems.solanakit.models.LastBlockHeightEntity
+import io.definenulls.solanakit.database.main.dao.BalanceDao
+import io.definenulls.solanakit.database.main.dao.LastBlockHeightDao
+import io.definenulls.solanakit.database.transaction.RoomTypeConverters
+import io.definenulls.solanakit.models.BalanceEntity
+import io.definenulls.solanakit.models.LastBlockHeightEntity
 
 @Database(
     entities = [

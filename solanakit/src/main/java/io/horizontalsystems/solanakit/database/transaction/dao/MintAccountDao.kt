@@ -1,10 +1,10 @@
-package io.horizontalsystems.solanakit.database.transaction.dao
+package io.definenulls.solanakit.database.transaction.dao
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import io.horizontalsystems.solanakit.models.MintAccount
+import io.definenulls.solanakit.models.MintAccount
 
 @Dao
 interface MintAccountDao {

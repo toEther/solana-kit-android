@@ -1,7 +1,7 @@
-package io.horizontalsystems.solanakit.database.transaction.dao
+package io.definenulls.solanakit.database.transaction.dao
 
 import androidx.room.*
-import io.horizontalsystems.solanakit.models.*
+import io.definenulls.solanakit.models.*
 
 @Dao
 interface TokenAccountDao {

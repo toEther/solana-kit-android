@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit
+package io.definenulls.solanakit
 
 import android.app.Application
 import android.content.Context
@@ -9,16 +9,16 @@ import com.solana.api.Api
 import com.solana.networking.Network
 import com.solana.networking.NetworkingRouterConfig
 import com.solana.networking.OkHttpNetworkingRouter
-import io.horizontalsystems.solanakit.core.*
-import io.horizontalsystems.solanakit.database.main.MainStorage
-import io.horizontalsystems.solanakit.database.transaction.TransactionStorage
-import io.horizontalsystems.solanakit.models.*
-import io.horizontalsystems.solanakit.network.ConnectionManager
-import io.horizontalsystems.solanakit.noderpc.ApiSyncer
-import io.horizontalsystems.solanakit.noderpc.NftClient
-import io.horizontalsystems.solanakit.transactions.SolscanClient
-import io.horizontalsystems.solanakit.transactions.TransactionManager
-import io.horizontalsystems.solanakit.transactions.TransactionSyncer
+import io.definenulls.solanakit.core.*
+import io.definenulls.solanakit.database.main.MainStorage
+import io.definenulls.solanakit.database.transaction.TransactionStorage
+import io.definenulls.solanakit.models.*
+import io.definenulls.solanakit.network.ConnectionManager
+import io.definenulls.solanakit.noderpc.ApiSyncer
+import io.definenulls.solanakit.noderpc.NftClient
+import io.definenulls.solanakit.transactions.SolscanClient
+import io.definenulls.solanakit.transactions.TransactionManager
+import io.definenulls.solanakit.transactions.TransactionSyncer
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow

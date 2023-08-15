@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.transactions
+package io.definenulls.solanakit.transactions
 
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient

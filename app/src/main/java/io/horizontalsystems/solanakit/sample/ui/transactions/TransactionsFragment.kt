@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.sample.ui.transactions
+package io.definenulls.solanakit.sample.ui.transactions
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import io.horizontalsystems.solanakit.sample.databinding.FragmentTransactionsBinding
+import io.definenulls.solanakit.sample.databinding.FragmentTransactionsBinding
 
 class TransactionsFragment : Fragment() {
 

@@ -1,6 +1,6 @@
-package io.horizontalsystems.solanakit.sample
+package io.definenulls.solanakit.sample
 
-import io.horizontalsystems.solanakit.models.RpcSource
+import io.definenulls.solanakit.models.RpcSource
 
 object Configuration {
     val rpcSource: RpcSource = RpcSource.TritonOne

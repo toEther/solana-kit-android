@@ -1,9 +1,9 @@
-package io.horizontalsystems.solanakit.database.transaction.dao
+package io.definenulls.solanakit.database.transaction.dao
 
 import androidx.room.*
 import androidx.sqlite.db.SupportSQLiteQuery
-import io.horizontalsystems.solanakit.models.*
-import io.horizontalsystems.solanakit.models.Transaction
+import io.definenulls.solanakit.models.*
+import io.definenulls.solanakit.models.Transaction
 
 @Dao
 interface TransactionsDao {

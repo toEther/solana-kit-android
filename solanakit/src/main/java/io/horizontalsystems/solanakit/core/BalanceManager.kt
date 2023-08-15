@@ -1,10 +1,10 @@
-package io.horizontalsystems.solanakit.core
+package io.definenulls.solanakit.core
 
 import com.solana.api.Api
 import com.solana.api.getBalance
 import com.solana.core.PublicKey
-import io.horizontalsystems.solanakit.SolanaKit
-import io.horizontalsystems.solanakit.database.main.MainStorage
+import io.definenulls.solanakit.SolanaKit
+import io.definenulls.solanakit.database.main.MainStorage
 
 interface IBalanceListener {
     fun onUpdateBalanceSyncState(value: SolanaKit.SyncState)

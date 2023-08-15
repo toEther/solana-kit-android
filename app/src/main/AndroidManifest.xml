@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
-        package="io.horizontalsystems.solanakit.sample">
+        package="io.definenulls.solanakit.sample">
 
     <application
             android:name=".App"
@@ -15,7 +15,7 @@
             android:theme="@style/Theme.Solanakitandroid"
             tools:targetApi="31">
         <activity
-                android:name="io.horizontalsystems.solanakit.sample.MainActivity"
+                android:name="io.definenulls.solanakit.sample.MainActivity"
                 android:exported="true"
                 android:label="@string/app_name">
             <intent-filter>

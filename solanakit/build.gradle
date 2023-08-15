@@ -41,7 +41,7 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.horizontalsystems'
+                groupId = 'com.github.toEther'
                 artifactId = 'solana-kit-android'
                 version = '1.0.0'
             }

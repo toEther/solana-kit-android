@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.sample.ui.send
+package io.definenulls.solanakit.sample.ui.send
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import io.horizontalsystems.solanakit.sample.databinding.FragmentSendBinding
+import io.definenulls.solanakit.sample.databinding.FragmentSendBinding
 
 class SendFragment : Fragment() {
 

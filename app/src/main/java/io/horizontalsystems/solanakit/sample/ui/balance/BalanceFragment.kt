@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.sample.ui.balance
+package io.definenulls.solanakit.sample.ui.balance
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import io.horizontalsystems.solanakit.sample.databinding.FragmentBalanceBinding
+import io.definenulls.solanakit.sample.databinding.FragmentBalanceBinding
 
 class BalanceFragment : Fragment() {
 

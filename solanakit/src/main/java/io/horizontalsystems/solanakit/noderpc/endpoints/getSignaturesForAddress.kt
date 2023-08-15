@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.noderpc.endpoints
+package io.definenulls.solanakit.noderpc.endpoints
 
 import com.solana.api.Api
 import com.solana.core.PublicKey

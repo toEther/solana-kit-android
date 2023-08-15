@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit
+package io.definenulls.solanakit
 
 import com.solana.core.Account
 import com.solana.core.HotAccount

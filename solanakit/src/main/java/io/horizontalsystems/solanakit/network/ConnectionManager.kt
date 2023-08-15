@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.network
+package io.definenulls.solanakit.network
 
 import android.content.Context
 import android.net.ConnectivityManager

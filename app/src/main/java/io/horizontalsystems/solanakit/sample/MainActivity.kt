@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.sample
+package io.definenulls.solanakit.sample
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import io.horizontalsystems.solanakit.sample.databinding.ActivityMainBinding
+import io.definenulls.solanakit.sample.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

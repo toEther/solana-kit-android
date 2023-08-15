@@ -1,8 +1,8 @@
-package io.horizontalsystems.solanakit.core
+package io.definenulls.solanakit.core
 
 import android.content.Context
-import io.horizontalsystems.solanakit.database.main.MainDatabase
-import io.horizontalsystems.solanakit.database.transaction.TransactionDatabase
+import io.definenulls.solanakit.database.main.MainDatabase
+import io.definenulls.solanakit.database.transaction.TransactionDatabase
 
 internal object SolanaDatabaseManager {
 

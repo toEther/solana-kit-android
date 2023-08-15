@@ -1,7 +1,7 @@
-package io.horizontalsystems.solanakit.database.main
+package io.definenulls.solanakit.database.main
 
-import io.horizontalsystems.solanakit.models.BalanceEntity
-import io.horizontalsystems.solanakit.models.LastBlockHeightEntity
+import io.definenulls.solanakit.models.BalanceEntity
+import io.definenulls.solanakit.models.LastBlockHeightEntity
 
 class MainStorage(
     private val database: MainDatabase

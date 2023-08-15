@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.noderpc
+package io.definenulls.solanakit.noderpc
 
 import com.metaplex.lib.programs.token_metadata.accounts.MetadataAccount
 import com.metaplex.lib.shared.OperationError

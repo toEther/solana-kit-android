@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit
+package io.definenulls.solanakit
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("io.horizontalsystems.solanakit.test", appContext.packageName)
+        assertEquals("io.definenulls.solanakit.test", appContext.packageName)
     }
 }

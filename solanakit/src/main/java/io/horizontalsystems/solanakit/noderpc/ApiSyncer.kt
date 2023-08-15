@@ -1,10 +1,10 @@
-package io.horizontalsystems.solanakit.noderpc
+package io.definenulls.solanakit.noderpc
 
 import com.solana.api.Api
 import com.solana.api.getBlockHeight
-import io.horizontalsystems.solanakit.SolanaKit
-import io.horizontalsystems.solanakit.database.main.MainStorage
-import io.horizontalsystems.solanakit.network.ConnectionManager
+import io.definenulls.solanakit.SolanaKit
+import io.definenulls.solanakit.database.main.MainStorage
+import io.definenulls.solanakit.network.ConnectionManager
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.flow
 import kotlin.time.DurationUnit

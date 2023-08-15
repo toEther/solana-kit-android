@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.core
+package io.definenulls.solanakit.core
 
 fun ByteArray.toRawHexString(): String {
     return this?.joinToString(separator = "") {

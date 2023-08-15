@@ -1,15 +1,15 @@
-package io.horizontalsystems.solanakit.database.transaction
+package io.definenulls.solanakit.database.transaction
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
-import io.horizontalsystems.solanakit.database.transaction.dao.MintAccountDao
-import io.horizontalsystems.solanakit.database.transaction.dao.TokenAccountDao
-import io.horizontalsystems.solanakit.database.transaction.dao.TransactionSyncerStateDao
-import io.horizontalsystems.solanakit.database.transaction.dao.TransactionsDao
-import io.horizontalsystems.solanakit.models.*
+import io.definenulls.solanakit.database.transaction.dao.MintAccountDao
+import io.definenulls.solanakit.database.transaction.dao.TokenAccountDao
+import io.definenulls.solanakit.database.transaction.dao.TransactionSyncerStateDao
+import io.definenulls.solanakit.database.transaction.dao.TransactionsDao
+import io.definenulls.solanakit.models.*
 
 @Database(
     entities = [

@@ -1,10 +1,10 @@
-package io.horizontalsystems.solanakit.database.main.dao
+package io.definenulls.solanakit.database.main.dao
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import io.horizontalsystems.solanakit.models.BalanceEntity
+import io.definenulls.solanakit.models.BalanceEntity
 
 @Dao
 interface BalanceDao {

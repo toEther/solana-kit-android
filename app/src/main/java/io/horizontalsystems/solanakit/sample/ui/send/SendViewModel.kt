@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.sample.ui.send
+package io.definenulls.solanakit.sample.ui.send
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

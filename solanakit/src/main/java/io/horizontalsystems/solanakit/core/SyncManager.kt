@@ -1,12 +1,12 @@
-package io.horizontalsystems.solanakit.core
+package io.definenulls.solanakit.core
 
-import io.horizontalsystems.solanakit.SolanaKit
-import io.horizontalsystems.solanakit.noderpc.ApiSyncer
-import io.horizontalsystems.solanakit.noderpc.IApiSyncerListener
-import io.horizontalsystems.solanakit.noderpc.SyncerState
-import io.horizontalsystems.solanakit.transactions.ITransactionListener
-import io.horizontalsystems.solanakit.transactions.TransactionManager
-import io.horizontalsystems.solanakit.transactions.TransactionSyncer
+import io.definenulls.solanakit.SolanaKit
+import io.definenulls.solanakit.noderpc.ApiSyncer
+import io.definenulls.solanakit.noderpc.IApiSyncerListener
+import io.definenulls.solanakit.noderpc.SyncerState
+import io.definenulls.solanakit.transactions.ITransactionListener
+import io.definenulls.solanakit.transactions.TransactionManager
+import io.definenulls.solanakit.transactions.TransactionSyncer
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 

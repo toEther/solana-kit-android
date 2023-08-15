@@ -1,7 +1,7 @@
-package io.horizontalsystems.solanakit.database.transaction
+package io.definenulls.solanakit.database.transaction
 
 import androidx.sqlite.db.SimpleSQLiteQuery
-import io.horizontalsystems.solanakit.models.*
+import io.definenulls.solanakit.models.*
 
 class TransactionStorage(
     database: TransactionDatabase,

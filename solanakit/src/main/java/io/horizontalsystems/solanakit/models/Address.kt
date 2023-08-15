@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.models
+package io.definenulls.solanakit.models
 
 import com.solana.core.PublicKey
 

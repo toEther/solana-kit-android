@@ -1,14 +1,14 @@
-package io.horizontalsystems.solanakit.core
+package io.definenulls.solanakit.core
 
 import com.solana.api.Api
 import com.solana.api.getMultipleAccounts
 import com.solana.core.PublicKey
 import com.solana.models.buffer.AccountInfo
 import com.solana.models.buffer.BufferInfo
-import io.horizontalsystems.solanakit.SolanaKit
-import io.horizontalsystems.solanakit.database.transaction.TransactionStorage
-import io.horizontalsystems.solanakit.models.FullTokenAccount
-import io.horizontalsystems.solanakit.models.TokenAccount
+import io.definenulls.solanakit.SolanaKit
+import io.definenulls.solanakit.database.transaction.TransactionStorage
+import io.definenulls.solanakit.models.FullTokenAccount
+import io.definenulls.solanakit.models.TokenAccount
 import kotlinx.coroutines.flow.*
 
 interface ITokenAccountListener {

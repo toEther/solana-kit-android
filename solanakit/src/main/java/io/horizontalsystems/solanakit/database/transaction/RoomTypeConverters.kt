@@ -1,4 +1,4 @@
-package io.horizontalsystems.solanakit.database.transaction
+package io.definenulls.solanakit.database.transaction
 
 import androidx.room.TypeConverter
 import java.math.BigDecimal

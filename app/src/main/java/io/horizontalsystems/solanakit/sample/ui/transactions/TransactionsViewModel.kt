@@ -1,10 +1,10 @@
-package io.horizontalsystems.solanakit.sample.ui.transactions
+package io.definenulls.solanakit.sample.ui.transactions
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import io.horizontalsystems.solanakit.sample.App
+import io.definenulls.solanakit.sample.App
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat
 import java.util.*
