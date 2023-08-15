@@ -52,7 +52,7 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
     implementation 'androidx.navigation:navigation-fragment-ktx:2.5.1'
     implementation 'androidx.navigation:navigation-ui-ktx:2.5.1'
-    implementation 'com.github.toEther:hd-wallet-kit-android:66c2544'
+    implementation 'com.github.toEther:hd-wallet-kit-android:b6bb91e'
 
     implementation project(':solanakit')
 
